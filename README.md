@@ -1,11 +1,12 @@
 <div align="center">
 
-# 𝙽𝚊𝚎𝚎𝚖 𝙰𝚑𝚖𝚎𝚍
+# 𝙽𝚊𝚎𝚎𝚖 
 
 `Python Developer` · `Aspiring Cybersecurity Professional`
 
 *Learning. Building. Understanding.*
 
+📍 **London, UK**
 <br>
 
 [![Python](https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
@@ -17,7 +18,7 @@
 
 ## About Me
 
-> I'm a Year 12 student interested in **cybersecurity** and software development.
+> Hi! Im Naeem a Year 12 student interested in **cybersecurity** and software development.
 
 - 🎓 Year 12 student studying T Levels in Digital Production, Design & Development
 - 🐍 Building projects with Python
