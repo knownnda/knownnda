@@ -11,7 +11,7 @@
 
 [![Python](https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
 [![Git](https://img.shields.io/badge/Git-18181b?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/)
-
+[![C++](https://img.shields.io/badge/C%2B%2B-18181b?style=for-the-badge&logo=cplusplus&logoColor=00599C)](https://isocpp.org/)
 </div>
 
 ---
@@ -35,7 +35,7 @@
 ### Languages
 
 [![Python](https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
-
+[![C++](https://img.shields.io/badge/C%2B%2B-18181b?style=for-the-badge&logo=cplusplus&logoColor=00599C)](https://isocpp.org/)
 ### Tools
 
 [![Git](https://img.shields.io/badge/Git-18181b?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/)
